@@ -11,8 +11,7 @@
 9. Deathstroke
 10. Copperhead
 11. Ra's al Ghul
-12. Doctor Light
-13. Gorilla Grodd
+12. Doctor Ligh
 14. Captain Boomerang
 15. Solomon Grundy
 16. Felix Faust
